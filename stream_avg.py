@@ -1,3 +1,5 @@
+# http://www.leancrew.com/all-this/2010/08/random-sampling-with-python/
+
 import mindwave, time
 
 P = 100
